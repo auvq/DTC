@@ -1,0 +1,11 @@
+me\itsenderrr\destroythecore\EventScheduler.class
+me\itsenderrr\destroythecore\placeholderapi\RegisterHookups.class
+me\itsenderrr\destroythecore\listeners\EventListener.class
+me\itsenderrr\destroythecore\commands\tabcompleters\MainCompleter.class
+me\itsenderrr\destroythecore\rewards\RollReward.class
+me\itsenderrr\destroythecore\utils\MsgSystem.class
+me\itsenderrr\destroythecore\commands\MainCommand.class
+me\itsenderrr\destroythecore\Main.class
+me\itsenderrr\destroythecore\utils\Base64Util.class
+me\itsenderrr\destroythecore\utils\CC.class
+me\itsenderrr\destroythecore\rewards\RewardsGUI.class

@@ -1,0 +1,37 @@
+Core:
+  CoreHealth: 1000
+  CoreMaterial: RED_CONCRETE
+  Location:
+    world: "world"
+    x: 0
+    y: 75
+    z: 0
+
+RewardsGUI:
+  name: "RewardsGUI"
+  base64: ""
+
+Messages:
+  WinnerMessages:
+    - "The player %player% won the game!"
+    - "The next event will be in %countdown%!"
+  StartMessages:
+    - "The event has started!"
+    - "Do /warp dtc to join!"
+  StoppedMessages:
+    - "The event has been forcefully stopped!"
+    - "The next one will be in %countdown%!"
+
+Times:
+  - "02:00"
+  - "04:00"
+  - "06:00"
+  - "08:00"
+  - "10:00"
+  - "12:00"
+  - "14:00"
+  - "16:00"
+  - "18:00"
+  - "20:00"
+  - "22:00"
+  - "24:00"

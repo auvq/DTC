@@ -1,0 +1,10 @@
+name: DestroyTheCore
+version: '${project.version}'
+main: me.itsenderrr.destroythecore.Main
+api-version: '1.20'
+load: STARTUP
+commands:
+  dtc:
+    aliases:
+      - "destroythecore"
+    description: "Destroy the core plugin"
